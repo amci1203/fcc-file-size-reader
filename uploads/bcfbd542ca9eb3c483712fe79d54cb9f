@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "pip-journal/server"
+		},
+		{
+			"path": "pip-journal/public"
+		}
+	]
+}
